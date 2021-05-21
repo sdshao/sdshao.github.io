@@ -5,12 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+Understanding and Detecting Server-Side Request Races in Web Applications (FSE 2021) To Appear
 
-{% include base_path %}
+Zhengyi Qiu, Shudi Shao, Qi Zhao, Guoliang Jin.
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+Database-Access Performance Antipatterns in Database-Backed Web Applications (ICSME 2020) [PDF](https://people.engr.ncsu.edu/gjin2/icsme-2020-dbperf), [Presentation](https://www.youtube.com/watch?v=jw7cTmNDIpY&t=18s)
+
+Shudi Shao, Zhengyi Qiu, Xiao Yu, Wei Yang, Guoliang Jin, Tao Xie, Xintao Wu.
