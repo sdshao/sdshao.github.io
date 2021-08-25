@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 A Characteristic Study of Deadlocks in Database-Backed Web Applications (To appear in ISSRE 2021)<br>
-Shudi Shao*, Zhengyi Qiu*, Qi Zhao, Guoliang Jin (* Both contribute equally to this work).<br>
+Shudi Shao\*, Zhengyi Qiu\*, Qi Zhao, Guoliang Jin (* Both contribute equally to this work).<br>
 
 
 Understanding and Detecting Server-Side Request Races in Web Applications (To appear in FSE 2021)<br>
