@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-A Characteristic Study of Deadlocks in Database-Backed Web Applications (To appear in ISSRE 2021)<br>
+A Characteristic Study of Deadlocks in Database-Backed Web Applications (ISSRE 2021) [PDF](https://people.engr.ncsu.edu/gjin2/issre-2021-deadlock-study.pdf)<br>
 Shudi Shao\*, Zhengyi Qiu\*, Qi Zhao, Guoliang Jin (* Both contribute equally to this work).<br>
 
 
