@@ -5,9 +5,11 @@ permalink: /publications/
 author_profile: true
 ---
 
+A Deep Study of the Effects and Fixes of Server-Side Request Races in Web Applications (MSR 2022)<br>
+Zhengyi Qiu, Shudi Shao, Qi Zhao, Hassan Ali Khan, Xinning Hui, Guoliang Jin.<br>
+
 A Characteristic Study of Deadlocks in Database-Backed Web Applications (ISSRE 2021) [PDF](https://people.engr.ncsu.edu/gjin2/issre-2021-deadlock-study.pdf)<br>
 Shudi Shao\*, Zhengyi Qiu\*, Qi Zhao, Guoliang Jin (* Both contribute equally to this work).<br>
-
 
 Understanding and Detecting Server-Side Request Races in Web Applications (FSE 2021) [PDF](https://people.engr.ncsu.edu/gjin2/fse-2021-reqrace.pdf)<br> 
 Zhengyi Qiu, Shudi Shao, Qi Zhao, Guoliang Jin.<br>
